@@ -1,3 +1,5 @@
+Sitemap: https://keimochizuki.github.io/lab_tech_note/sitemap.xml
+
 User-agent: GPTBot
 Disallow: /
 
